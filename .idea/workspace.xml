@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd0a906a-3445-42ff-b18f-eff17a90bdc3" name="Changes" comment="Use prepared statement for adding messages" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FwKs4kLFwIQSTAePhNIZWis3ks" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/lukas/uhk/PRO2_2022_ChatClient",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ChatApp">
+    <configuration name="ChatApp" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11 (2)" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PRO2_2022_ChatClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunDbConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunDbConsole" />
+      <module name="PRO2_2022_ChatClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ChatApp" />
+      <item itemvalue="Application.RunDbConsole" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunDbConsole" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd0a906a-3445-42ff-b18f-eff17a90bdc3" name="Changes" comment="" />
+      <created>1665397911874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665397911874</updated>
+      <workItem from="1665397913147" duration="3811000" />
+      <workItem from="1666522253671" duration="605000" />
+      <workItem from="1666607264524" duration="4558000" />
+      <workItem from="1666616027132" duration="2012000" />
+      <workItem from="1666629388781" duration="8000" />
+      <workItem from="1666629475766" duration="148000" />
+      <workItem from="1666691016754" duration="957000" />
+      <workItem from="1666702682966" duration="599000" />
+      <workItem from="1667215059148" duration="5528000" />
+      <workItem from="1667244153823" duration="335000" />
+      <workItem from="1667248797620" duration="8000" />
+      <workItem from="1667820340904" duration="3243000" />
+      <workItem from="1667832633969" duration="1106000" />
+      <workItem from="1667904309502" duration="599000" />
+      <workItem from="1667912071633" duration="599000" />
+      <workItem from="1667943540441" duration="1253000" />
+      <workItem from="1668034410747" duration="599000" />
+      <workItem from="1668265993423" duration="1312000" />
+      <workItem from="1668360918706" duration="28000" />
+      <workItem from="1669635313877" duration="4667000" />
+      <workItem from="1669642414182" duration="43000" />
+      <workItem from="1669675602685" duration="5519000" />
+      <workItem from="1669732426271" duration="598000" />
+      <workItem from="1669916515242" duration="597000" />
+      <workItem from="1670177093004" duration="482000" />
+      <workItem from="1670177599662" duration="334000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1665401618779</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665401618780</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add chat events and update GUI">
+      <created>1666617011741</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666617011741</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add add saving messages to JSON">
+      <created>1667219479854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667219479854</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add LocalDateTime serialization">
+      <created>1667821249084</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667821249084</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add SQL backend">
+      <created>1667823308145</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667823308146</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Use prepared statement for adding messages">
+      <created>1667833130954</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667833130954</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Add chat events and update GUI" />
+    <MESSAGE value="Add add saving messages to JSON" />
+    <MESSAGE value="Add LocalDateTime serialization" />
+    <MESSAGE value="Add SQL backend" />
+    <MESSAGE value="Use prepared statement for adding messages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Use prepared statement for adding messages" />
+  </component>
+</project>
