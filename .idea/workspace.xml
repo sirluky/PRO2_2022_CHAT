@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd0a906a-3445-42ff-b18f-eff17a90bdc3" name="Changes" comment="Use prepared statement for adding messages" />
+    <list default="true" id="dd0a906a-3445-42ff-b18f-eff17a90bdc3" name="Changes" comment="Use prepared statement for adding messages">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/chatClients/DbChatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/database/DbInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/database/DbInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/database/JdbcDatabaseOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/database/JdbcDatabaseOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/models/database/DbInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/database/DbInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/models/database/JdbcDatabaseOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/database/JdbcDatabaseOperations.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,22 +41,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/lukas/uhk/PRO2_2022_ChatClient",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lukas/uhk/PRO2_2022_Kovarlu_CHAT&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;derby&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="models.chatClients" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.ChatApp">
     <configuration name="ChatApp" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-11 (2)" />
@@ -106,7 +127,10 @@
       <workItem from="1669732426271" duration="598000" />
       <workItem from="1669916515242" duration="597000" />
       <workItem from="1670177093004" duration="482000" />
-      <workItem from="1670177599662" duration="334000" />
+      <workItem from="1670177599662" duration="512000" />
+      <workItem from="1670178157216" duration="36000" />
+      <workItem from="1670190844894" duration="1059000" />
+      <workItem from="1670191913262" duration="915000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1665401618779</created>
